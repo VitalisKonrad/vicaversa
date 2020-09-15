@@ -19,14 +19,17 @@ textarea{
     border-radius: 5px;
 }
 .button{
-    justify-content: center;
-    width: 90px;
-    height: 30px;
+    /*justify-content: center;*/
+    /*width: 90px;*/
+    /*height: 30px;*/
     line-height: 24px;
     border-radius: 10px;
     color: white;
     background-color: coral;
     margin: auto;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 10px 25px;
 }
 input{
     border: none;
